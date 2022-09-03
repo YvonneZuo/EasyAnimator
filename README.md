@@ -1,4 +1,6 @@
 # Simple Animator
+An animation application built with Java Swing using the classic MVC architecture<br>
+
 
 ## -- MODEL --
 ### Interfaces:
